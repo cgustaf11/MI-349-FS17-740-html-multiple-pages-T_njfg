@@ -20,17 +20,6 @@ body {
 
 h1 {
 	text-align: center;
-	background-color:rgba(22,69,59,1.00);
-	color:#FFF;
-	padding: 5px;
-}
-
-h2 {
-	padding: 7px;
-	color:rgba(22,69,59,1.00);
-}
-
-h3 {
 	color:rgba(22,69,59,1.00);
 }
 
@@ -38,15 +27,6 @@ img {
 	border-color:rgba(22,69,59,1.00);
 	border-style: solid;
 	border-width: 5px;
-}
-
-a {
-  font-weight: bold;
-	color:#2106E1;
-}
-
-a:hover {
-	color:#7F0204;
 }
 
 #nav {
@@ -76,4 +56,9 @@ li{
 #hero {
     display: block;
     margin: 0 auto;
+}
+
+iframe{
+	display: block;
+	margin: 0 auto;
 }
