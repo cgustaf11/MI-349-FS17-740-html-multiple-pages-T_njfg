@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/* Chris Gustafson's CSS Document.
+*/
+
+html {
+	background-image: url(green-background.jpg);
+	font-family: 'Roboto', sans-serif;
+
+}
+
+body {
+	width: 761px;
+	margin: 1.5em auto;
+	border-color:rgba(22,69,59,1.00);
+	border-style: solid;
+	border-width: 10px;
+	padding: 25px;
+	background-color: grey;
+}
+
+h1 {
+	text-align: center;
+	background-color:rgba(22,69,59,1.00);
+	color:#FFF;
+	padding: 5px;
+}
+
+h2 {
+	padding: 7px;
+	color:rgba(22,69,59,1.00);
+}
+
+h3 {
+	color:rgba(22,69,59,1.00);
+}
+
+img {
+	border-color:rgba(22,69,59,1.00);
+	border-style: solid;
+	border-width: 5px;
+}
+
+a {
+  font-weight: bold;
+	color:#2106E1;
+}
+
+a:hover {
+	color:#7F0204;
+}
+
+#nav {
+	padding: 5px;
+	font-size: 1.5em;
+	text-align: center;
+	background-color:rgba(22,69,59,1.00);
+}
+
+#nav li {
+	display:inline;
+}
+
+#nav a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+li{
+  margin: 10px;
+}
+
+#textheader {
+	text-align: center;
+}
+
+#hero {
+    display: block;
+    margin: 0 auto;
+}
